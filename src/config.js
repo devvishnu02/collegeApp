@@ -1,0 +1,1 @@
+export const webURL = "http://localhost:8080"
